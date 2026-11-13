@@ -1,0 +1,15 @@
+# Clinical data and generated outputs
+Datasets/Raw/*
+Datasets/Processed/*
+!Datasets/Raw/.gitkeep
+!Datasets/Processed/.gitkeep
+reports/figures/*
+!reports/figures/.gitkeep
+
+# Python and notebook files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+*.egg-info/
