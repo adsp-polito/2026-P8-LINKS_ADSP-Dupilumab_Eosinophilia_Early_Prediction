@@ -14,3 +14,4 @@ __pycache__/
 .venv/
 *.egg-info/
 reports/numeric_distributions/riepilogo.csv
+Notebooks/src/credentials.json
